@@ -1,9 +1,11 @@
-**Terminal Simple Commands**
+#Terminal
 
-```cd```: change directory
+###Simple Commands
 
-```ls```: list the contents of a directory
+`cd`: change directory
 
-```mkdir```: make a directory
+`ls`: list the contents of a directory
 
-```touch filename```: make a file called "filename"
+`mkdir`: make a directory
+
+`touch filename`: make a file called "filename"
