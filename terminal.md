@@ -1,4 +1,4 @@
-**Simple commands**
+**Terminal Simple Commands**
 
 ```cd```: change directory
 
