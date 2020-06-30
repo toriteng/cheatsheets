@@ -1,6 +1,6 @@
-#Terminal
+# Terminal
 
-###Simple Commands
+### Simple Commands
 
 `cd`: change directory
 
