@@ -13,3 +13,7 @@
 `git commit -m "my message"`
 
 `git push origin master`
+
+### note
+
+The `.gitignore` file lets you add specifc files and folders that you dont want saved on github. Always add the `/node_modules` folder!
