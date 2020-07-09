@@ -23,3 +23,11 @@
 `ctrl-c` to stop the project
 
 `npm run build` to build your app
+
+### firebase deploy
+
+`firebase login` to login
+
+`firebase init` to initialize (set your "public" directory to "build" in the questions)
+
+`firebase deploy` to deploy your app!
